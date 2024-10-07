@@ -1,6 +1,6 @@
 //A class with a main method to launch the MazeDisplay program
 //Created by James Vanderhyde, 2 November 2011
-
+//Modified By Luis Jimenez, 7 October 2024
 package amazingstacks;
 
 /**
